@@ -26,4 +26,4 @@ Questo repository contiene due versioni di un progetto che utilizza tecniche di 
 
 1. Scaricare o clonare il repository Git:
    ```bash
-   git clone https://github.com/tuo-username/face-recognition-project.git
+   git clone https://github.com/andreacampus17/face-recognition-project.git
